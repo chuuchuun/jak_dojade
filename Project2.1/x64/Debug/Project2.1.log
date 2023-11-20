@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\alla\Desktop\old stuff\aisd\Project2.1\Project2.1\main.cpp(104,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\alla\Desktop\old stuff\aisd\Project2.1\Project2.1\main.cpp(500,12): warning C4101: 's': unreferenced local variable
+C:\Users\alla\Desktop\old stuff\aisd\Project2.1\Project2.1\main.cpp(500,9): warning C4101: 'w': unreferenced local variable
+  Project2.1.vcxproj -> C:\Users\alla\Desktop\old stuff\aisd\Project2.1\x64\Debug\Project2.1.exe
